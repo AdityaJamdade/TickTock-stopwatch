@@ -1,5 +1,3 @@
-Certainly! Here's an updated version of the README.md file with the link to the project and your name:
-
 # TickTock Stopwatch
 
 TickTock Stopwatch is a React.js application that allows users to create and manage multiple stopwatches simultaneously. It is a useful tool for tracking time in various scenarios, such as group presentations or timing different tasks.
